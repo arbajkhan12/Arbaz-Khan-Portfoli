@@ -23,7 +23,7 @@ function Home() {
         A Front-End Developer specializing in building responsive, fast, and user-friendly web applications using React and modern web technologies.
         </p>
         <a 
-          href="Resume/Arbaz-Khan.pdf" 
+          href="/Resume/Arbaz-Khan.pdf" 
           download 
           className="inline-block mt-6 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-6 rounded-lg transition duration-300">
           Download CV
